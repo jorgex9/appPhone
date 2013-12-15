@@ -9,7 +9,7 @@ en el debe agregar el archivo reply.php.
 
 configurar en config.xml el acceso a su servidor, de la siguiente manera 
 
-<access origin="http://192.168.1.102/appPhoneServer/" />
+ // <access origin="http://192.168.1.102/appPhoneServer/" />
 
 cambiando la ip de su server y el path donde haya creado el reply.php
 
